@@ -1,2 +1,2 @@
 # google-homepage
-Odin Project Tutorial
+Odin Project Tutorial Learning Full stack web development
